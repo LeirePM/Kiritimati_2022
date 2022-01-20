@@ -1,0 +1,29 @@
+Population	Region1	Region2	RegionNum
+West New Guinea	New Guinea	New Guinea	5
+Papua New Guinea	New Guinea	New Guinea	5
+Bismarck Archipelago	New Guinea Islands	New Guinea Islands	6
+Bougainville	New Guinea Islands	New Guinea Islands	6
+Kiritimati (R. Kiribati)	Kiritimati	Kiritimati	7
+Solomon Islands	Solomon Islands	Solomon Islands	8
+Fiji	Fiji	Fiji	9
+Polynesian Outliers	Polynesian Outliers	Polynesian Outliers	10
+Polynesia	Polynesia	Polynesia	11
+Cook Islands	Polynesia	Polynesia	11
+Futuna	Polynesia	Polynesia	11
+Niue	Polynesia	Polynesia	11
+Samoa	Polynesia	Polynesia	11
+Tonga	Polynesia	Polynesia	11
+Tuvalu	Polynesia	Polynesia	11
+Marquesas	Polynesia	Polynesia	11
+Leeward Society Is.	Polynesia	Polynesia	11
+Myanmar	MSEA	MSEA	1
+Taiwan	ISEA	ISEA	2
+TW-Ami	ISEA	ISEA	2
+TW-Yami	ISEA	ISEA	2
+Philippines	ISEA	ISEA	2
+Thai-Laos	MSEA	MSEA	1
+Western IDN	ISEA	West Indonesia	3
+Eastern IDN	ISEA	East Indonesia	4
+Total IDN	ISEA	Indonesia	2
+Total IDN+East Timor	ISEA	Indonesia	2
+East Timor	ISEA	East Indonesia	4

@@ -1,0 +1,44 @@
+Population	Region1	Region2	RegionNum
+Solomon_Austronesian	Solomon Islands	Solomon Islands	6
+Solomon_Papuan	Solomon Islands	Solomon Islands	6
+Polynesian outliers	Polynesian Outliers	Polynesian Outliers	8
+West New Guinea	New Guinea	New Guinea	3
+Papua New Guinea	New Guinea	New Guinea	3
+Bismarck Archipelago	New Guinea Islands	New Guinea Islands	4
+Bougainville	New Guinea Islands	New Guinea Islands	4
+Fiji	Fiji	Fiji	7
+Polynesia	Polynesia	Polynesia	9
+Marquesas Is.	Polynesia	Polynesia	9
+Leeward Society Is.	Polynesia	Polynesia	9
+Kiritimati	Kiritimati	Kiritimati	10
+YAMI	ISEA	ISEA	2
+AMI	ISEA	ISEA	2
+Aboriginal Australians	Australia	Australia	5
+IDN_Sumatra-Semende	ISEA	ISEA	2
+IDN_Sumatra-Besemah	ISEA	ISEA	2
+THA-AA	MSEA	MSEA	1
+THA-ST	MSEA	MSEA	1
+THA-TK	MSEA	MSEA	1
+PHL-Negrito	ISEA	ISEA	2
+PHL-Non-Negrito	ISEA	ISEA	2
+Philippines_Trejaut et al.	ISEA	ISEA	2
+IDN-Kalimantan	ISEA	ISEA	2
+IDN-Sumatra	ISEA	ISEA	2
+IDN-Java	ISEA	ISEA	2
+IDN-East	ISEA	ISEA	2
+Malaysia	MSEA	MSEA	1
+Thailand_Trejaut et al.	MSEA	MSEA	1
+Vietnam (Hanoy)	MSEA	MSEA	1
+China Han Fujian	MSEA	MSEA	1
+TWN-Han	ISEA	ISEA	2
+TWN-Plain tribes	ISEA	ISEA	2
+TWN-Yami_Trejaut et al.	ISEA	ISEA	2
+TWN-Ami_Trejaut et al.	ISEA	ISEA	2
+TWN-South MtA	ISEA	ISEA	2
+TWN-North and South MtA	ISEA	ISEA	2
+Manua	Samoa	Polynesia	9
+Tutuila	Samoa	Polynesia	9
+W. Samoa	Samoa	Polynesia	9
+Tonga	Tonga	Polynesia	9
+Samoa-Delfin	Samoa	Polynesia	9
+Tonga-Delfin	Tonga	Polynesia	9
